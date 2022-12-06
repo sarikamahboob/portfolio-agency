@@ -4,7 +4,7 @@ import styles from "./HeroSec.module.scss";
 const HeroSec = () => {
     return (
         <div>
-            <h1 className={styles.red} >Lionel Messi</h1>
+            <h1 className={styles.red} >Lionel Messi, Paulo Dybala</h1>
         </div>
     );
 };
